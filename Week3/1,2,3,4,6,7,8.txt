@@ -10,10 +10,9 @@
 4)clear
 5)bt
 
-3) Different Op on different compilers : 2[Online GDB] 22222[Python Tutor] 2222222[Programiz]
+3) 22222
 
-4)Variable Output based on the thread which is created first, so op is not identical
-.
+4)143414
 
 6) To avoid race conditions, ynchronization techniques such as locks, semaphores can be used to ensure that only one thread or process can access shared resources at a time.
 Deadlock can be prevented by eliminating any of the four  conditions, 1)which are mutual exclusion, 2)hold and wait, 3)no preemption, and 4)circular wait.
